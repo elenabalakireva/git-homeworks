@@ -20,6 +20,8 @@
 * Устройство: iPhone 8+ (iOS 12.1)
 * Браузер: Chrome (70.0.3538.75)
 
+@solarrust
+
 #### Скриншоты
 
 ![](https://i.imgur.com/HJ1VbMj.png)
